@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Table13
-- I’m currently learning Java,c,c++,ruby
+- I’m currently learning anything
+- 
 - I’m looking to free gold
 
 <!---
